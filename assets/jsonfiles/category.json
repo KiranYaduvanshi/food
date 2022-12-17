@@ -1,0 +1,473 @@
+{
+    "items": [
+        {
+            "id": "1",
+            "name": "Dominos",
+            "image": "https://www.vectorbranddesigns.com/wp-content/uploads/2020/02/upambe-dishes-menu-1.jpg",
+            "description": "Healthy Food ,Asian Pizza ",
+            "address": "SCO 129-131, Sector 9, Chnadigarh",
+            "percentage": "40",
+            "category": [
+                "Paneer",
+                "Rolls",
+                "Pizza"
+            ],
+            "distance": "100",
+            "subcategory": [
+                {
+                    "id": 1,
+                    "pid": 1,
+                    "name": "Cheese Corn Pizza",
+                    "hotelName": "New Panna Sweets",
+                    "image": "https://image.shutterstock.com/image-photo/pizza-mozzarella-cheese-chicken-sweet-260nw-253956814.jpg",
+                    "description": "Pizza ",
+                    "price": "140"
+
+                },
+                {
+                    "id": 1,
+                    "pid": 2,
+                    "name": "Onion  Pizza",
+                    "image": "https://mpng.subpng.com/20180601/llg/kisspng-california-style-pizza-sicilian-pizza-doner-kebab-pizza-menu-5b11940c033449.8277722515278786680131.jpg",
+                    "description": "Pizza ",
+                    "price": "140",
+                    "cat": "Pizza"
+                },
+                {
+                    "id": 1,
+                    "pid": 4,
+                    "name": "Shahi Paneer",
+                    "image": "https://www.pngfind.com/pngs/m/600-6008469_mattar-paneer-shahi-paneer-png-transparent-png.png",
+                    "description": "Shaahi Paneer ",
+                    "price": "140",
+                    "cat": "Paneer"
+                },
+
+                {
+                    "id": 1,
+                    "pid": 3,
+                    "name": "Capsicum Pizza",
+                    "image": "https://vegplatter.in/files/public/images/partner/catalog/125/Capsicum%20Pizza.jpg",
+                    "description": "Pizza ",
+                    "price": "140",
+                    "cat": "Pizza"
+                }
+            ],
+            "cartInfo": {
+                "products": []
+            }
+        },
+        {
+            "id": "2",
+            "name": "Burger King",
+            "image": "https://d1ralsognjng37.cloudfront.net/faf2a79b-b6b1-4bb7-b68e-b5aa02b2c3a0.jpeg",
+            "description": "Healthy Food ,Burder ",
+            "address": "SCO 129-131, Sector 9, Chnadigarh",
+            "percentage": "50",
+            "category": [
+                "Pizza",
+                "Burger"
+            ],
+            "distance": "100",
+            "subcategory": [
+                {
+                    "id": 2,
+                    "pid": 1,
+                    "name": "Cheese Corn Burger",
+                    "image": "https://i1.pnghost.com/4/25/13/pngdb-burger-and-sandwich-fast-food-restaurant-take-out-pizza-hamburger-png-wbgB2TkRsVAPbWr2G3pabTpXu.jpg",
+                    "description": "Pizza ",
+                    "price": "140",
+
+                    "cat": "Burger"
+                },
+                {
+                    "id": 2,
+                    "pid": 2,
+                    "name": "Onion  Burger",
+                    "image": "https://i1.pnghost.com/4/25/13/pngdb-burger-and-sandwich-fast-food-restaurant-take-out-pizza-hamburger-png-wbgB2TkRsVAPbWr2G3pabTpXu.jpg",
+                    "description": "Pizza ",
+                    "price": "140",
+
+                    "cat": "Burger"
+                },
+                {
+                    "id": 1,
+                    "pid": 1,
+                    "name": "Cheese Corn Pizza",
+                    "hotelName": "New Panna Sweets",
+                    "image": "https://image.shutterstock.com/image-photo/pizza-mozzarella-cheese-chicken-sweet-260nw-253956814.jpg",
+                    "description": "Pizza ",
+                    "price": "140"
+
+                }
+            ],
+            "cartInfo": {
+                "products": []
+            }
+        },
+        {
+            "id": "3",
+            "name": "Swagar Restaurant & Bar ",
+            "image": "https://c.ndtvimg.com/2020-05/9iuj3h1g_indian-food_625x300_19_May_20.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886",
+            "description": "North Indian Food  ",
+            "address": "318, Elante Mall , Chnadigarh",
+            "percentage": "40",
+            "category": [
+                "Paneer",
+                "Pizza",
+                "Rolls"
+            ],
+            "distance": "100",
+            "subcategory": [
+                {
+                    "id": 3,
+                    "pid": 1,
+                    "name": "Chrispy Rolls",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHh4p-Ro3wrbwH_5bLiWQMdYsqNyXEfQhjupB7ctPdJQ4qzzeFjYCH-nuVco1AZVvVAWE&usqp=CAU",
+                    "description": "Pizza ",
+                    "price": "140",
+                    "cat": "Rolls"
+                },
+                {
+                    "id": 3,
+                    "pid": 1,
+                    "name": "Cheese Corn Pizza",
+                    "hotelName": "New Panna Sweets",
+                    "image": "https://image.shutterstock.com/image-photo/pizza-mozzarella-cheese-chicken-sweet-260nw-253956814.jpg",
+                    "description": "Pizza ",
+                    "price": "140"
+
+                },
+                {
+                    "id": 3,
+                    "pid": 1,
+                    "name": "Paneer Tikka",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVEvrYNuwFS8ZF9Z7h4AWPMSRzEsACCfNwsQ&usqp=CAU",
+                    "description": "Panner Tikka  ",
+                    "price": "140",
+                    "cat": "Paneer"
+                },
+
+
+
+                {
+                    "id": 3,
+                    "pid": 2,
+                    "name": "Noodle Spring Rolls",
+                    "image": "https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/rdbaww2optpgpothynap",
+                    "description": "Pizza ",
+                    "price": "140",
+                    "cat": "Rolls"
+                },
+                {
+                    "id": 3,
+                    "pid": 3,
+                    "name": "Chinese Rolls",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN_FcNKA6o_8iHMZwiJ5L4CyBWlGFde7ZYPQ&usqp=CAU",
+                    "description": "Pizza ",
+                    "price": "140",
+                    "cat": "Rolls"
+                }
+
+
+            ],
+            "cartInfo": {
+                "products": []
+            }
+        },
+        {
+            "id": "4",
+            "name": "Home Diners ",
+            "image": "https://hips.hearstapps.com/del.h-cdn.co/assets/17/31/2048x1024/landscape-1501791674-delish-chicken-curry-horizontal.jpg?resize=480:*",
+            "description": "Healthy Food ,Chinese  ",
+            "address": "SCO 129-131, Sector 9, Chnadigarh",
+            "percentage": "20",
+            "category": [
+                "Momos",
+                "Pizza",
+                "Rolls"
+            ],
+            "distance": "100",
+            "subcategory": [
+                {
+                    "id": 4,
+                    "pid": 1,
+                    "name": "Fried  Momos",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp_icdW0PdYtN5su4Ckec5DjE2jZyuUXH34S6TjPG1WBUgdxKQLB3aV8GEoZIw38zhs9k&usqp=CAU",
+                    "description": "Pizza ",
+                    "price": "140",
+                    "cat": "Momos"
+                },
+                {
+                    "id": 4,
+                    "pid": 2,
+                    "name": "Onion Steam  Momos",
+                    "image": "https://www.india.com/wp-content/uploads/2017/07/chicken-momos.jpg",
+                    "description": "Pizza ",
+                    "price": "140",
+                    "cat": "Momos"
+                },
+                {
+                    "id": 4,
+                    "pid": 2,
+                    "name": "Noodle Spring Rolls",
+                    "image": "https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/rdbaww2optpgpothynap",
+                    "description": "Pizza ",
+                    "price": "140",
+                    "cat": "Rolls"
+                },
+
+                {
+                    "id": 4,
+                    "pid": 3,
+                    "name": "Cheese Momos",
+                    "image": "https://images.herzindagi.info/image/2019/Mar/cheese-corn-momos-main.jpg",
+                    "description": "Pizza ",
+                    "price": "140",
+                    "cat": "Momos"
+                },
+                {
+                    "id": 4,
+                    "pid": 1,
+                    "name": "Cheese Corn Pizza",
+                    "hotelName": "New Panna Sweets",
+                    "image": "https://image.shutterstock.com/image-photo/pizza-mozzarella-cheese-chicken-sweet-260nw-253956814.jpg",
+                    "description": "Pizza ",
+                    "price": "140"
+
+                }
+
+            ],
+            "cartInfo": {
+                "products": []
+            }
+        },
+        {
+            "id": "5",
+            "name": "Flavor of Punjab ",
+            "image": "https://png.pngtree.com/thumb_back/fh260/back_our/20190621/ourmid/pngtree-chinese-food-pasta-simple-white-banner-image_179324.jpg",
+            "description": "North Indian,Healthy Food ,Asian Pizza ",
+            "address": "Sector 17, Chnadigarh",
+            "percentage": "60",
+            "category": [
+                "Paneer",
+                "Pizza",
+                "Rolls"
+            ],
+            "distance": "100",
+            "subcategory": [
+                {
+                    "id": 5,
+                    "pid": 1,
+                    "name": "Paneer Tikka",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVEvrYNuwFS8ZF9Z7h4AWPMSRzEsACCfNwsQ&usqp=CAU",
+                    "description": "Panner Tikka  ",
+                    "price": "140",
+                    "cat": "Paneer"
+                },
+
+                {
+                    "id": 5,
+                    "pid": 2,
+                    "name": "Noodle Spring Rolls",
+                    "image": "https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/rdbaww2optpgpothynap",
+                    "description": "Pizza ",
+                    "price": "140",
+                    "cat": "Rolls"
+                },
+
+                {
+                    "id": 5,
+                    "pid": 2,
+                    "name": "Onion  Paneer",
+                    "image": "https://www.pngall.com/wp-content/uploads/4/Pepperoni-Dominos-Pizza-PNG-Free-Download.png",
+                    "description": "Pizza ",
+                    "price": "140",
+                    "cat": "Paneer"
+                },
+                {
+                    "id": 5,
+                    "pid": 3,
+                    "name": "Shahi Paneer",
+                    "image": "https://www.pngfind.com/pngs/m/600-6008469_mattar-paneer-shahi-paneer-png-transparent-png.png",
+                    "description": "Shaahi Paneer ",
+                    "price": "140",
+                    "cat": "Paneer"
+                }
+            ],
+            "cartInfo": {
+                "products": []
+            }
+        },
+        {
+            "id": "6",
+            "name": "World Food Center ",
+            "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/welcomHotel/hotels/welcomhotelvadodara/images/overview-landing-page/brand-unifier/desktop/welcomsthalika-vadodara.png",
+            "description": "Healthy Food ,Mughal   ",
+            "address": "SCF 91, Phase 1 , Mohali",
+            "percentage": "60",
+            
+            "category": [
+                "Cheese Naan",
+                "Pizza",
+                "Burger"
+            ],
+            "distance": "100",
+            "subcategory": [
+                {
+                    "id": 6,
+                    "pid": 1,
+                    "name": "Cheese Corn Cheese Naan",
+                    "image": "https://img.favpng.com/1/8/22/soma-elit-pide-salonu-g-zleme-naan-pizza-png-favpng-ywcyAnK1xYwRypMqZGd7BzVA7.jpg",
+                    "description": "Delicious Buttery Naan ",
+                    "price": "140",
+                    "cat": "Cheese Naan"
+                },
+                {
+                    "id": 6,
+                    "pid": 2,
+                    "name": "Onion  Cheese Naan",
+                    "image": "https://www.pngall.com/wp-content/uploads/4/Pepperoni-Dominos-Pizza-PNG-Free-Download.png",
+                    "description": "Pizza ",
+                    "price": "140",
+                    "cat": "Cheese Naan"
+                },
+                {
+                    "id": 6,
+                    "pid": 1,
+                    "name": "Cheese Corn Burger",
+                    "image": "https://i1.pnghost.com/4/25/13/pngdb-burger-and-sandwich-fast-food-restaurant-take-out-pizza-hamburger-png-wbgB2TkRsVAPbWr2G3pabTpXu.jpg",
+                    "description": "Pizza ",
+                    "price": "140",
+
+                    "cat": "Burger"
+                },
+
+                {
+                    "id": 6,
+                    "pid": 4,
+                    "name": "Cheese Corn Pizza",
+                    "hotelName": "New Panna Sweets",
+                    "image": "https://image.shutterstock.com/image-photo/pizza-mozzarella-cheese-chicken-sweet-260nw-253956814.jpg",
+                    "description": "Pizza ",
+                    "price": "140"
+
+                },
+                
+
+                {
+                    "id": 6,
+                    "pid": 3,
+                    "name": "Capsicum Cheese Naan",
+                    "image": "https://www.pngall.com/wp-content/uploads/4/Pepperoni-Dominos-Pizza-PNG-Free-Download.png",
+                    "description": "Pizza ",
+                    "price": "140",
+                    "cat": "Cheese Naan"
+                }
+            ],
+            "cartInfo": {
+                "products": []
+            }
+        },
+        {
+            "id": "7",
+            "name": "Mid Point Cafe ",
+            "image": "https://b.zmtcdn.com/data/pictures/8/18730388/11a422af4dd8654652a165c7ac8f6081.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+            "description": "Healthy Food ,Asian Pizza ",
+            "address": "SCO 129-131, Sector 9, Chnadigarh",
+            "percentage": "40",
+            "category": [
+                "Home Style",
+                "Pizza",
+                "Burger"
+            ],
+            "distance": "100",
+            "subcategory": [
+                {
+                    "id": 7,
+                    "pid": 1,
+                    "name": "Fried Rice with Gravy",
+                    "image": "https://p.kindpng.com/picc/s/697-6972538_group-indian-food-png-transparent-png.png",
+                    "description": "Pizza ",
+                    "price": "140",
+                    "cat": "Home Style"
+                },
+                {
+                    "id": 7,
+                    "pid": 2,
+                    "name": "Indian Thali",
+                    "image": "https://www.pngitem.com/pimgs/m/206-2063785_indian-cuisine-png-indian-food-png-transparent-png.png",
+                    "description": "Pizza ",
+                    "price": "140",
+                    "cat": "Home Style"
+                },
+                {
+                    "id": 3,
+                    "pid": 3,
+                    "name": "Capsicum Rolls",
+                    "image": "https://www.pngall.com/wp-content/uploads/8/Springroll-Snack-PNG-HD-Image.png",
+                    "description": "Pizza ",
+                    "price": "140",
+                    "cat": "Rolls"
+                }
+            ],
+            "cartInfo": {
+                "products": []
+            }
+        },
+        {
+            "id": "8",
+            "name": "Boston Bites",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBRxP3RdNIsXtiZR1Mc9eXGSJWHNzAkVGnNA&usqp=CAU",
+            "description": "Healthy Food ,Fast Food, Pizza ",
+            "address": "Shop 39, Sector 111D, Chnadigarh",
+            "percentage": "40",
+            "category": [
+                "Home Style",
+                "Fries"
+            ],
+            "distance": "100",
+            "subcategory": [
+                {
+                    "id": 8,
+                    "pid": 1,
+                    "name": "Cheese Fries",
+                    "image": "https://www.pngall.com/wp-content/uploads/4/Fries-Transparent.png",
+                    "description": "Pizza ",
+                    "price": "140",
+                    "cat": "Fries"
+                },
+                {
+                    "id": 8,
+                    "pid": 1,
+                    "name": "Fried Rice with Gravy",
+                    "image": "https://p.kindpng.com/picc/s/697-6972538_group-indian-food-png-transparent-png.png",
+                    "description": "Pizza ",
+                    "price": "140",
+                    "cat": "Home Style"
+                }
+
+            ],
+            "cartInfo": {
+                "products": [
+                    {
+                        "pid": 1,
+                        "qty": 2
+                    },
+                    {
+                        "pid": 2,
+                        "qty": 2
+                    },
+                    {
+                        "pid": 3,
+                        "qty": 2
+                    },
+                    {
+                        "pid": 4,
+                        "qty": 2
+                    }
+                ]
+            }
+        }
+    ]
+}

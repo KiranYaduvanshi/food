@@ -1,0 +1,70 @@
+{
+    "result": [
+      {
+        "id": "p1",
+        "name": "Pizza",
+        "image": "https://www.pngall.com/wp-content/uploads/4/Pepperoni-Dominos-Pizza-PNG-Free-Download.png",
+        "percentage":"30",
+        "price":"200",
+        "description": "A delight for veggie lovers! Choose from our wide range of delicious vegetarian pizzas, it's softer and tastier "
+      },
+      {
+        "id": "p2",
+        "name": "Burger",
+        "image":"https://www.pngall.com/wp-content/uploads/2016/05/Burger-Free-Download-PNG.png",
+        "percentage":"40",
+        "price":"300",
+        "description": "A huge single or triple burger with all the fixings, cheese, lettuce, tomato, onions and special sauce or mayonnaise!"
+      },
+      {
+        "id": "p3",
+        "name": "Rolls ",
+        "image":"https://www.pngall.com/wp-content/uploads/8/Springroll-Snack-PNG-HD-Image.png",
+        "percentage":"50",
+        "price":"150",
+        "description": "Spring rolls are filled with minced vegetables, seafood, poultry, or meat, folded into a food wrapper made from dough or rice paper that is rolled after being folded and is then baked, deep fried, or steamed. They may also be served fresh with a prepared wrapper that is ready to eat after being filled with ingredients."
+      },
+        {
+          "id": "p4",
+          "name": "Momos ",
+          "image": "https://www.pngall.com/wp-content/uploads/7/Pierogi-Transparent.png",
+          "percentage":"30",
+          "price":"100",
+          "description": "the savory veggie filling has a balanced taste and is lightly spiced, so that it accompanies any spicy and hot sauce very well. Time intensive: Making momos or dim sum takes quite a good amount of time"
+        },
+        {
+          "id": "p5",
+          "name": "Paneer ",
+          "image":"https://www.pngall.com/wp-content/uploads/2016/05/Burger-Free-Download-PNG.png",
+          "percentage":"50",
+          "price":"140",
+          "description": "Paneer"
+        },
+   
+          {
+            "id": "p6",
+            "name": "Cheese Naan",
+            "image": "https://www.pngall.com/wp-content/uploads/4/Pepperoni-Dominos-Pizza-PNG-Free-Download.png",
+            "percentage":"50",
+            "price":"120",
+            "description": "Cheese naan as a plain snack or with a side dish of any North Indian dal or veggie curry. So you can serve with dal fry or dal tadka or paneer masala or mix veg gravy or veg kadai or matar paneer or veg kurma."
+          },
+          {
+            "id": "p7",
+            "name": "Home Style ",
+            "image":"https://www.pngall.com/wp-content/uploads/2016/05/Burger-Free-Download-PNG.png",
+            "percentage":"50",
+            "price":"100",
+            "description": "A huge single or triple burger with all the fixings, cheese, lettuce, tomato, onions and special sauce or mayonnaise!"
+          },
+          {
+            "id": "p8",
+            "name": "Rolls",
+            "image":"https://www.pngall.com/wp-content/uploads/8/Springroll-Snack-PNG-HD-Image.png",
+            "percentage":"40",
+            "price":"120",
+            "description": "Spring rolls are filled with minced vegetables, seafood, poultry, or meat, folded into a food wrapper made from dough or rice paper that is rolled after being folded and is then baked, deep fried, or steamed. They may also be served fresh with a prepared wrapper that is ready to eat after being filled with ingredients."
+          }
+
+    ]
+  }

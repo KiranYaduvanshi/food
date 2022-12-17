@@ -1,0 +1,77 @@
+{
+    "items": [
+        {
+            "id": "p1",
+            "name": "Pizza",
+            "image": "https://www.pngall.com/wp-content/uploads/4/Pepperoni-Dominos-Pizza-PNG-Free-Download.png",
+            "description": "Pizza ",
+            "subcategory": [
+            
+                {
+                    "id" : 1,
+                    "pid":1,
+                    "name": "Cheese Corn Pizza",
+                    "image": "https://www.pngall.com/wp-content/uploads/4/Pepperoni-Dominos-Pizza-PNG-Free-Download.png",
+                    "description": "Pizza "
+                },
+                {
+                    "id" : 1,
+                    "pid":2,
+                    "name": "Onion  Pizza",
+                    "image": "https://www.pngall.com/wp-content/uploads/4/Pepperoni-Dominos-Pizza-PNG-Free-Download.png",
+                    "description": "Pizza ",
+                    "cat": "Pizza"
+                },                
+                {
+                    "id" : 1,
+                    "pid":3,
+                    "name": "Capsicum Pizza",
+                    "image": "https://www.pngall.com/wp-content/uploads/4/Pepperoni-Dominos-Pizza-PNG-Free-Download.png",
+                    "description": "Pizza ",
+                    "cat": "Pizza"
+
+                }
+
+
+            ],
+            "cartInfo":{
+                "products":[]
+            }
+        },
+        {
+            "id": "p2",
+            "name": "Burger",
+            "image": "https://www.pngall.com/wp-content/uploads/2016/05/Burger-Free-Download-PNG.png",
+            "description": "Burger",
+            "subcategory": [
+                {
+                    "id": 2,
+                    "pid":1,
+                    "name": "Cheese Burger",
+                    "image": "https://www.pngall.com/wp-content/uploads/4/Pepperoni-Dominos-Pizza-PNG-Free-Download.png",
+                    "description": "Pizza ",
+                    "cat": "Pizza"
+
+                }
+            ],
+            "cartInfo":{
+                "products":[{
+                    "pid":1,
+                    "qty":2
+                },
+                {
+                    "pid":2,
+                    "qty":2
+                },
+                {
+                    "pid":3,
+                    "qty":2
+                },
+                {
+                    "pid":4,
+                    "qty":2
+                }]
+            }
+        }
+    ]
+}

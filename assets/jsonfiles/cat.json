@@ -1,0 +1,51 @@
+{
+    "category" : [
+        {
+            "name" : "Pizza",
+            "cid" : "1",
+            "image":"https://www.pngall.com/wp-content/uploads/4/Pepperoni-Dominos-Pizza-PNG-Free-Download.png"
+        },
+        {
+            "name" : "Burger",
+            "cid" : "2",
+            "image":"https://www.pngall.com/wp-content/uploads/2016/05/Burger-Free-Download-PNG.png"
+        },
+        {
+            "name" : "Rolls",
+            "cid" : "3",
+
+            "image":"https://www.pngall.com/wp-content/uploads/8/Springroll-Snack-PNG-HD-Image.png"
+                },
+        {
+            "name" : "Momos",
+            "cid" : "4",
+            "image": "https://www.pngall.com/wp-content/uploads/7/Pierogi-Transparent.png"
+        },
+        {
+            "name" : "Paneer",
+            "cid" : "5",
+            "image":"https://w7.pngwing.com/pngs/633/993/png-transparent-mattar-paneer-indian-cuisine-paneer-tikka-masala-shahi-paneer-karahi-non-veg-food-food-recipe-tomato-thumbnail.png"
+        },
+        {
+            "name" : "Cheese Naan",
+            "cid" : "6",
+            "image":"https://w7.pngwing.com/pngs/39/550/png-transparent-naan-kulcha-european-cuisine-indian-cuisine-turkish-cuisine-vegetable-baked-goods-food-recipe-thumbnail.png"
+        },
+        {
+            "name" : "Home Style",
+            "cid" : "7",
+            "image":"https://w7.pngwing.com/pngs/183/221/png-transparent-vegetarian-cuisine-punjabi-cuisine-dal-baati-gobi-manchurian-vegetable-food-breakfast-recipe-thumbnail.png"
+        },
+        {
+            "name" : "Fries",
+            "cid" : "8",
+            "image": "https://www.pngall.com/wp-content/uploads/4/Fries-Transparent.png"
+        }
+
+
+
+
+
+
+    ]
+}
